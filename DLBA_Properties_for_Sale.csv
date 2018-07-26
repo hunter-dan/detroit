@@ -1,0 +1,753 @@
+Address,Parcel ID,Program,Listing Date,Neighborhood,Council District,Latitude,Longitude,Location
+3811 Tyler,14005241.,Own It Now,04/16/2018,Russell Woods,7,42.387459,-83.131821,"location
+(42.387459, -83.131821)"
+16116 Bentler,22110612.,Auction,08/02/2018,Miller Grove,1,42.407943,-83.251848,"location
+(42.407943, -83.251848)"
+16237 Lahser,22113751.001,Auction,08/02/2018,Riverdale,1,42.408974,-83.257523,"location
+(42.408974, -83.257523)"
+3167 E Outer Drive,13009029.,Auction,07/29/2018,Farwell,3,42.441086,-83.049588,"location
+(42.441086, -83.049588)"
+16559 Kentucky,16036961.,Auction,07/26/2018,Fitzgerald/Marygrove,2,42.413046,-83.159374,"location
+(42.413046, -83.159374)"
+16149 Wisconsin,16035166.,Auction,07/26/2018,Fitzgerald/Marygrove,2,42.410505,-83.157061,"location
+(42.410505, -83.157061)"
+18867 Concord,15011392.,Own It Now,05/18/2018,Grant,3,42.433003,-83.033147,"location
+(42.433003, -83.033147)"
+12610 Northlawn,16031620.,Own It Now,06/11/2018,Littlefield Community,7,42.381141,-83.152478,"location
+(42.381141, -83.152478)"
+9131 Kensington,21072929.,Auction,08/01/2018,Yorkshire Woods,4,42.414147,-82.942592,"location
+(42.414147, -82.942592)"
+11277 Christy,21013232.,Own It Now,12/04/2017,Gratiot-Findlay,4,42.413322,-83.003844,"location
+(42.413322, -83.003844)"
+16288 Rossini Drive,21024702.,Own It Now,04/16/2018,Regent Park,3,42.443563,-82.951757,"location
+(42.443563, -82.951757)"
+9081 N Martindale,14007543.,Own It Now,06/25/2018,Petoskey-Otsego,5,42.366388,-83.125706,"location
+(42.366388, -83.125706)"
+2931 Helen,15009789.,Auction,07/31/2018,Islandview,5,42.359987,-83.012249,"location
+(42.359987, -83.012249)"
+12264 Rosemary,21009558.,Own It Now,06/11/2018,Eden Gardens,4,42.410293,-82.98675,"location
+(42.410293, -82.98675)"
+15930 Woodingham,16028335.,Own It Now,07/30/2018,Fitzgerald/Marygrove,2,42.409336,-83.14942,"location
+(42.409336, -83.14942)"
+19652 Albany St,13013383.,Own It Now,10/30/2017,Farwell,3,42.439238,-83.044827,"location
+(42.439238, -83.044827)"
+12469 Whitehill,21058255.004,Own It Now,11/20/2017,Moross-Morang,4,42.430929,-82.949511,"location
+(42.430929, -82.949511)"
+13244 Tacoma,21023709.,Own It Now,10/30/2017,Pulaski,3,42.441069,-82.989283,"location
+(42.441069, -82.989283)"
+19409 Rowe,21035976.,Own It Now,01/29/2018,Pulaski,3,42.437845,-83.003926,"location
+(42.437845, -83.003926)"
+18585 Anglin,09012117.,Own It Now,10/09/2017,Northeast Central District,3,42.429523,-83.075149,"location
+(42.429523, -83.075149)"
+19179 Hasse,13018168-9,Own It Now,09/05/2017,Farwell,3,42.434433,-83.057099,"location
+(42.434433, -83.057099)"
+19681 Dwyer,13011919.,Own It Now,04/18/2018,Farwell,3,42.439665,-83.04202,"location
+(42.439665, -83.04202)"
+19323 Sussex,22046554.,Auction,07/30/2018,San Bernardo,2,42.432846,-83.196557,"location
+(42.432846, -83.196557)"
+19330 Ferguson,22063418.,Own It Now,07/30/2018,Greenfield,2,42.432752,-83.210429,"location
+(42.432752, -83.210429)"
+18985 Plainview,22094279.,Auction,08/08/2018,Evergreen-Outer Drive,1,42.428443,-83.238008,"location
+(42.428443, -83.238008)"
+7503 E Brentwood,15004833.,Own It Now,06/25/2018,Grant,3,42.433239,-83.027373,"location
+(42.433239, -83.027373)"
+19348 Danbury,01009151.,Own It Now,06/04/2018,Penrose,2,42.434995,-83.106,"location
+(42.434995, -83.106)"
+1941 Seward,08001911.,Own It Now,07/30/2018,LaSalle Gardens,5,42.36843,-83.095216,"location
+(42.36843, -83.095216)"
+19177 St Aubin,09015974.,Own It Now,07/02/2018,Nolan,3,42.433998,-83.082023,"location
+(42.433998, -83.082023)"
+19704 Greeley,09019331.,Own It Now,05/14/2018,Nolan,3,42.439089,-83.087598,"location
+(42.439089, -83.087598)"
+17844 Cardoni,09021088.,Own It Now,06/04/2018,Cadillac Heights,3,42.424228,-83.090704,"location
+(42.424228, -83.090704)"
+18847 Cardoni,09021346.,Own It Now,02/19/2018,Hawthorne Park,3,42.430862,-83.091715,"location
+(42.430862, -83.091715)"
+2739 Pasadena,10004395.,Own It Now,07/16/2018,Oakman Blvd Community,2,42.39423,-83.125882,"location
+(42.39423, -83.125882)"
+2967 Columbus,12001515.,Own It Now,04/16/2018,Wildemere Park,5,42.362625,-83.106577,"location
+(42.362625, -83.106577)"
+3232 Montgomery,12001658.,Own It Now,09/25/2017,Wildemere Park,5,42.362947,-83.109447,"location
+(42.362947, -83.109447)"
+11706 St Louis,13011160.,Own It Now,07/02/2018,Buffalo Charles,3,42.410096,-83.038864,"location
+(42.410096, -83.038864)"
+19658 Caldwell,13014332.,Own It Now,07/30/2018,Farwell,3,42.439283,-83.046921,"location
+(42.439283, -83.046921)"
+20216 Norwood,13022207.,Own It Now,07/23/2018,Farwell,3,42.444347,-83.067528,"location
+(42.444347, -83.067528)"
+4329 Pasadena,14005776.,Own It Now,05/21/2018,Oakman Blvd Community,2,42.389294,-83.13902,"location
+(42.389294, -83.13902)"
+20207 Monica,16021529-30,Own It Now,04/16/2018,Garden Homes,2,42.4428,-83.145316,"location
+(42.4428, -83.145316)"
+15737 Cherrylawn,16033347.,Own It Now,04/23/2018,Fitzgerald/Marygrove,2,42.406772,-83.15478,"location
+(42.406772, -83.15478)"
+15731 Cherrylawn,16033348.,Own It Now,01/29/2018,Fitzgerald/Marygrove,2,42.406675,-83.154775,"location
+(42.406675, -83.154775)"
+11317 Wyoming,18016079.,Own It Now,04/23/2018,Barton-McFarland,7,42.371591,-83.158777,"location
+(42.371591, -83.158777)"
+11661 Manor,18018313.,Own It Now,07/23/2018,Grand River-I96,7,42.374168,-83.16733,"location
+(42.374168, -83.16733)"
+17221 Waveney,21001950.,Own It Now,07/23/2018,Cornerstone Village,4,42.402315,-82.92469,"location
+(42.402315, -82.92469)"
+14943 Evanston,21005307.,Own It Now,07/23/2018,Outer Drive-Hayes,4,42.4071,-82.960039,"location
+(42.4071, -82.960039)"
+14203 Rosemary,21009785.,Own It Now,07/23/2018,Eden Gardens,4,42.415208,-82.974349,"location
+(42.415208, -82.974349)"
+12825 Kilbourne,21010123.,Own It Now,07/09/2018,Eden Gardens,4,42.413991,-82.981081,"location
+(42.413991, -82.981081)"
+14955 Collingham,21027164.,Auction,08/14/2018,Regent Park,3,42.448293,-82.967998,"location
+(42.448293, -82.967998)"
+18424 Pelkey,21029895.,Own It Now,07/23/2018,Franklin,3,42.429879,-82.985784,"location
+(42.429879, -82.985784)"
+20260 Annott,21035532.,Own It Now,10/09/2017,Conner Creek,3,42.446239,-83.002343,"location
+(42.446239, -83.002343)"
+17154 Hoover,21036102-3,Own It Now,01/29/2018,Von Steuben,3,42.420936,-83.003636,"location
+(42.420936, -83.003636)"
+11581 Rossiter,21058724.001,Own It Now,07/23/2018,Denby,4,42.424651,-82.950081,"location
+(42.424651, -82.950081)"
+5555 Wayburn,21063878.,Own It Now,07/30/2018,Morningside,4,42.401275,-82.956528,"location
+(42.401275, -82.956528)"
+4358 Nottingham,21066409.,Own It Now,07/16/2018,Morningside,4,42.395096,-82.945796,"location
+(42.395096, -82.945796)"
+5090 Nottingham,21066452.,Own It Now,01/29/2018,Morningside,4,42.400468,-82.949336,"location
+(42.400468, -82.949336)"
+5218 Berkshire,21069196.,Auction,08/07/2018,Morningside,4,42.402687,-82.94577,"location
+(42.402687, -82.94577)"
+4327 Berkshire,21069386.,Own It Now,05/29/2018,Morningside,4,42.395955,-82.942096,"location
+(42.395955, -82.942096)"
+5104 Haverhill,21070049.,Own It Now,03/19/2018,Morningside,4,42.40284,-82.943508,"location
+(42.40284, -82.943508)"
+22022 Lyndon,22010204-6,Own It Now,06/18/2018,Brightmoor,1,42.393334,-83.257324,"location
+(42.393334, -83.257324)"
+21415 Karl,22015370.,Own It Now,05/07/2018,Holcomb Community,1,42.422914,-83.253601,"location
+(42.422914, -83.253601)"
+9352 Sorrento,22023332.,Auction,08/15/2018,Barton-McFarland,7,42.364567,-83.171233,"location
+(42.364567, -83.171233)"
+9208 Ward,22024557.,Own It Now,10/30/2017,Barton-McFarland,7,42.362535,-83.172387,"location
+(42.362535, -83.172387)"
+15033 Ardmore,22035247.,Own It Now,07/23/2018,Bethune Community,1,42.400262,-83.18472,"location
+(42.400262, -83.18472)"
+15367 Strathmoor,22038356.,Own It Now,07/23/2018,Bethune Community,1,42.403167,-83.188154,"location
+(42.403167, -83.188154)"
+14436 Marlowe,22040707.,Own It Now,07/23/2018,Hubbell-Lyndon,1,42.394297,-83.189336,"location
+(42.394297, -83.189336)"
+7265 Mansfield,22058113.,Auction,08/11/2018,Warren Ave Community,7,42.344553,-83.202789,"location
+(42.344553, -83.202789)"
+8316 St Marys,22058342.,Own It Now,07/09/2018,Warren Ave Community,7,42.354265,-83.203791,"location
+(42.354265, -83.203791)"
+19126 Biltmore,22064090-1,Own It Now,05/29/2018,Greenfield,2,42.4307,-83.211413,"location
+(42.4307, -83.211413)"
+11374 Memorial,22067611.,Own It Now,05/07/2018,Joy Community,7,42.371053,-83.211629,"location
+(42.371053, -83.211629)"
+19424 Faust,22078833.,Auction,08/08/2018,O'Hair Park,1,42.433987,-83.223931,"location
+(42.433987, -83.223931)"
+20001 Avon,22081627.,Own It Now,07/23/2018,O'Hair Park,1,42.438917,-83.227392,"location
+(42.438917, -83.227392)"
+18929 Huntington,22089796.,Own It Now,03/26/2018,Evergreen-Outer Drive,1,42.427745,-83.233648,"location
+(42.427745, -83.233648)"
+15761 Burt Rd,22107913.,Own It Now,07/23/2018,Brightmoor,1,42.40543,-83.247671,"location
+(42.40543, -83.247671)"
+17520 Trinity,22108594.,Own It Now,07/02/2018,Holcomb Community,1,42.419293,-83.248884,"location
+(42.419293, -83.248884)"
+17216 Chapel,22111396.,Own It Now,05/07/2018,Holcomb Community,1,42.416538,-83.253568,"location
+(42.416538, -83.253568)"
+15081 Lahser,22113848.,Own It Now,07/02/2018,Brightmoor,1,42.398769,-83.257162,"location
+(42.398769, -83.257162)"
+16758 Bramell,22117717.,Own It Now,07/02/2018,Riverdale,1,42.412397,-83.264288,"location
+(42.412397, -83.264288)"
+18938 Dale,22122244.,Own It Now,07/02/2018,Seven Mile-Rouge,1,42.427227,-83.276259,"location
+(42.427227, -83.276259)"
+8234 Patton,22103609.,Own It Now,04/09/2018,Warrendale,7,42.352586,-83.241519,"location
+(42.352586, -83.241519)"
+18478 Stout,22101439.,Own It Now,05/11/2018,Holcomb Community,1,42.425551,-83.242523,"location
+(42.425551, -83.242523)"
+13516 Steel,22022229.,Own It Now,04/09/2018,Grand River-I96,7,42.386111,-83.170538,"location
+(42.386111, -83.170538)"
+15421 Vaughan,22098286.,Own It Now,06/25/2018,Brightmoor,1,42.402798,-83.238881,"location
+(42.402798, -83.238881)"
+18124 Brinker,09011731.,Own It Now,01/08/2018,Northeast Central District,3,42.427667,-83.073494,"location
+(42.427667, -83.073494)"
+8167 La Salle Blvd,10008863.,Auction,07/27/2018,LaSalle Gardens,5,42.366964,-83.101387,"location
+(42.366964, -83.101387)"
+18865 Caldwell,13014454.,Own It Now,02/19/2018,Krainz Woods,3,42.43255,-83.047374,"location
+(42.43255, -83.047374)"
+13750 Capitol,22006472.,Own It Now,01/29/2018,Paveway,7,42.377219,-83.181133,"location
+(42.377219, -83.181133)"
+12661 Sussex,22046903.,Own It Now,01/29/2018,Schoolcraft Southfield,1,42.380915,-83.194798,"location
+(42.380915, -83.194798)"
+12923 Greenview,22080498.,Auction,08/05/2018,Schoolcraft Southfield,1,42.383664,-83.223786,"location
+(42.383664, -83.223786)"
+2255 Clairmount,10002367.,Own It Now,07/23/2018,North LaSalle,5,42.374486,-83.103778,"location
+(42.374486, -83.103778)"
+4240 Waverly,14005417.,Auction,08/14/2018,Russell Woods,7,42.387303,-83.135839,"location
+(42.387303, -83.135839)"
+5050 Somerset,21067106.,Auction,07/28/2018,Morningside,4,42.400339,-82.94799,"location
+(42.400339, -82.94799)"
+6891 Rutland,22069102.,Auction,07/29/2018,Warren Ave Community,7,42.34253,-83.212534,"location
+(42.34253, -83.212534)"
+85 E Margaret,01005868.,Own It Now,06/18/2018,Greenfield Park,3,42.426393,-83.100411,"location
+(42.426393, -83.100411)"
+17922 Mitchell,09010953.,Own It Now,05/14/2018,Cadillac Heights,3,42.425153,-83.071766,"location
+(42.425153, -83.071766)"
+2980 Hazelwood,12002482.,Own It Now,07/16/2018,Jamison,5,42.37009,-83.111881,"location
+(42.37009, -83.111881)"
+20177 Anglin,13024343.,Own It Now,06/04/2018,Butler,3,42.443723,-83.075543,"location
+(42.443723, -83.075543)"
+12325 Cherrylawn,16033540.,Own It Now,07/16/2018,Littlefield Community,7,42.37945,-83.154118,"location
+(42.37945, -83.154118)"
+2629 Electric,20013871-2,Own It Now,07/09/2018,Boynton,6,42.268956,-83.158122,"location
+(42.268956, -83.158122)"
+3022 Electric,20014143.,Own It Now,05/29/2018,Boynton,6,42.266214,-83.161408,"location
+(42.266214, -83.161408)"
+19313 Hoyt,21029318.,Own It Now,07/30/2018,Franklin,3,42.437314,-82.980859,"location
+(42.437314, -82.980859)"
+12040 Dresden,21034574.,Own It Now,07/30/2018,Gratiot-Findlay,4,42.417668,-82.993023,"location
+(42.417668, -82.993023)"
+4418 French Rd,21040114.,Own It Now,07/02/2018,East Canfield,4,42.380992,-82.987562,"location
+(42.380992, -82.987562)"
+11044 Whitehill,21058143.,Own It Now,04/09/2018,Outer Drive-Hayes,4,42.417698,-82.957867,"location
+(42.417698, -82.957867)"
+5034 Philip,21060272.,Own It Now,07/02/2018,Chandler Park-Chalmers,4,42.396823,-82.956974,"location
+(42.396823, -82.956974)"
+5741 Maryland,21064352.,Own It Now,07/02/2018,Morningside,4,42.403112,-82.956496,"location
+(42.403112, -82.956496)"
+15452 Freeland,22035649.,Own It Now,04/30/2018,Bethune Community,1,42.404538,-83.185329,"location
+(42.404538, -83.185329)"
+9606 Mark Twain,22036534.,Own It Now,07/23/2018,Plymouth-Hubbell,7,42.3672,-83.184753,"location
+(42.3672, -83.184753)"
+12949 Penrod,22077985.,Auction,07/25/2018,Schoolcraft Southfield,1,42.384067,-83.221284,"location
+(42.384067, -83.221284)"
+16840 Greydale,22112699.,Auction,08/02/2018,Miller Grove,1,42.413293,-83.25582,"location
+(42.413293, -83.25582)"
+5360 Burns,17006321.,Auction,07/31/2018,Pingree Park,5,42.381638,-83.008814,"location
+(42.381638, -83.008814)"
+14406 Rutherford,22055938.,Auction,08/05/2018,Greenfield-Grand River,1,42.3932,-83.20347,"location
+(42.3932, -83.20347)"
+10536 Nottingham,21066595.,Auction,08/01/2018,Yorkshire Woods,4,42.417697,-82.949138,"location
+(42.417697, -82.949138)"
+16505 Indiana,16036028.,Auction,08/08/2018,Fitzgerald/Marygrove,2,42.412281,-83.158238,"location
+(42.412281, -83.158238)"
+16076 Ellsworth,22010564.,Auction,08/05/2018,Grand River-St Marys,1,42.400542,-83.206361,"location
+(42.400542, -83.206361)"
+20140 Anglin,13024297.,Own It Now,07/02/2018,Butler,3,42.443284,-83.074778,"location
+(42.443284, -83.074778)"
+4254 Tyler,14005303.,Own It Now,07/23/2018,Russell Woods,7,42.38653,-83.135612,"location
+(42.38653, -83.135612)"
+4225 W Davison,14005428.,Own It Now,07/30/2018,Russell Woods,7,42.387632,-83.135762,"location
+(42.387632, -83.135762)"
+19367 Carrie,15008456.,Own It Now,12/11/2017,Nortown,3,42.436858,-83.031161,"location
+(42.436858, -83.031161)"
+20174 Concord,15011242.,Own It Now,04/30/2018,Sherwood,3,42.44458,-83.032853,"location
+(42.44458, -83.032853)"
+18075 Roselawn,16030707.,Auction,07/26/2018,Bagley,2,42.423573,-83.153035,"location
+(42.423573, -83.153035)"
+18115 Cherrylawn,16033234.,Auction,08/11/2018,Bagley,2,42.424094,-83.155512,"location
+(42.424094, -83.155512)"
+8280 Normile,18016427.,Auction,08/14/2018,Aviation Sub,7,42.355307,-83.158497,"location
+(42.355307, -83.158497)"
+9153 Chamberlain,20002385.,Auction,08/10/2018,Springwells,6,42.299735,-83.131078,"location
+(42.299735, -83.131078)"
+15645 Manning,21023383.,Auction,08/07/2018,Regent Park,3,42.441203,-82.95992,"location
+(42.441203, -82.95992)"
+12784 Payton,21057490.003,Auction,08/11/2018,Moross-Morang,4,42.431351,-82.953762,"location
+(42.431351, -82.953762)"
+9221 Kensington,21072918.,Auction,08/02/2018,Yorkshire Woods,4,42.414731,-82.944025,"location
+(42.414731, -82.944025)"
+8001 Hartwell,22029518.,Auction,08/11/2018,Joy-Schaefer,7,42.351459,-83.176347,"location
+(42.351459, -83.176347)"
+18452 Greenfield,22050200.,Auction,08/13/2018,Winship,2,42.425739,-83.199297,"location
+(42.425739, -83.199297)"
+6225 Stahelin,22084073.,Own It Now,07/23/2018,Warrendale,7,42.334985,-83.22434,"location
+(42.334985, -83.22434)"
+17513 Trinity,22108696.,Own It Now,05/07/2018,Holcomb Community,1,42.419183,-83.249504,"location
+(42.419183, -83.249504)"
+16911 Burgess,22112267.,Auction,07/26/2018,Miller Grove,1,42.414266,-83.255358,"location
+(42.414266, -83.255358)"
+19204 Concord,15011171.,Own It Now,01/08/2018,Nortown,3,42.435346,-83.032585,"location
+(42.435346, -83.032585)"
+20003 Westphalia,21031804-5,Own It Now,07/23/2018,Conner Creek,3,42.44395,-82.993152,"location
+(42.44395, -82.993152)"
+15846 Fordham,21019674.,Own It Now,07/16/2018,Mapleridge,4,42.43451,-82.957227,"location
+(42.43451, -82.957227)"
+2201 Labelle,08004840.,Own It Now,11/20/2017,Oakman Blvd Community,2,42.39865,-83.118533,"location
+(42.39865, -83.118533)"
+1410 Liebold,20014281.,Own It Now,06/04/2018,Boynton,6,42.278712,-83.150098,"location
+(42.278712, -83.150098)"
+9262 Mendota,18017156.,Auction,08/01/2018,Barton-McFarland,7,42.363431,-83.163891,"location
+(42.363431, -83.163891)"
+11366 Meyers,18018693.,Own It Now,04/23/2018,Barton-McFarland,7,42.372046,-83.167731,"location
+(42.372046, -83.167731)"
+14445 Cruse,22034438.,Own It Now,07/02/2018,Grand River-I96,7,42.394572,-83.183428,"location
+(42.394572, -83.183428)"
+9326 Plainview,22093760.,Own It Now,06/04/2018,Franklin Park,7,42.363352,-83.234428,"location
+(42.363352, -83.234428)"
+8910 Vaughan,22097443.,Own It Now,04/23/2018,Franklin Park,7,42.359208,-83.236864,"location
+(42.359208, -83.236864)"
+19608 Charest,13023521.,Own It Now,07/23/2018,Pershing,3,42.4381,-83.071221,"location
+(42.4381, -83.071221)"
+965 E Golden Gate,09007212.,Own It Now,03/05/2018,Hawthorne Park,3,42.429577,-83.093198,"location
+(42.429577, -83.093198)"
+980 E Greendale,09007020.,Own It Now,03/05/2018,Hawthorne Park,3,42.426966,-83.092709,"location
+(42.426966, -83.092709)"
+19426 Omira,09022759.,Own It Now,10/23/2017,Nolan,3,42.436837,-83.095778,"location
+(42.436837, -83.095778)"
+4412 Seyburn,17010718.,Own It Now,04/02/2018,Gratiot-Grand,5,42.371787,-83.010676,"location
+(42.371787, -83.010676)"
+3958 Sheridan,17012797.,Own It Now,04/02/2018,Gratiot-Grand,5,42.368431,-83.012538,"location
+(42.368431, -83.012538)"
+11232 Minden,21013378.,Own It Now,07/09/2018,Gratiot-Findlay,4,42.413385,-83.004763,"location
+(42.413385, -83.004763)"
+17700 Rowe,21035745.,Own It Now,07/09/2018,Von Steuben,3,42.425307,-83.002753,"location
+(42.425307, -83.002753)"
+11136 Rosemary,21009610.,Own It Now,05/14/2018,Gratiot-Findlay,4,42.407209,-82.997001,"location
+(42.407209, -82.997001)"
+14524 Manning,21023158.,Own It Now,02/12/2018,Regent Park,3,42.440574,-82.972957,"location
+(42.440574, -82.972957)"
+4700 Chatsworth,21068920.,Own It Now,01/15/2018,Morningside,4,42.398344,-82.944112,"location
+(42.398344, -82.944112)"
+3000 Grand,12004678.,Own It Now,07/09/2018,Oakman Blvd Community,2,42.393166,-83.127718,"location
+(42.393166, -83.127718)"
+2489 Hazelwood,10002181.,Own It Now,04/09/2018,North LaSalle,5,42.371673,-83.105978,"location
+(42.371673, -83.105978)"
+5215 Manistique,21061473.,Own It Now,09/25/2017,Chandler Park-Chalmers,4,42.39842,-82.957355,"location
+(42.39842, -82.957355)"
+7700 Auburn,22092209.,Own It Now,04/09/2018,Warrendale,7,42.348257,-83.232758,"location
+(42.348257, -83.232758)"
+2324 Ford,08004784.,Own It Now,07/09/2018,Oakman Blvd Community,2,42.397599,-83.120365,"location
+(42.397599, -83.120365)"
+4576 Woodhall,21075889.,Auction,08/06/2018,Cornerstone Village,4,42.405279,-82.924317,"location
+(42.405279, -82.924317)"
+15755 Northlawn,16032314.,Own It Now,06/11/2018,Fitzgerald/Marygrove,2,42.406982,-83.153788,"location
+(42.406982, -83.153788)"
+12011 Evergreen,22096685.,Own It Now,07/09/2018,Weatherby,7,42.374304,-83.236713,"location
+(42.374304, -83.236713)"
+14040 Glastonbury,22081921.,Auction,08/13/2018,Grandmont #1,1,42.388551,-83.224453,"location
+(42.388551, -83.224453)"
+4310 Waverly,14005407.,Auction,08/04/2018,Russell Woods,7,42.386866,-83.136993,"location
+(42.386866, -83.136993)"
+16241 Eastburn,21025879.,Auction,08/06/2018,Regent Park,3,42.445934,-82.952724,"location
+(42.445934, -82.952724)"
+16053 Eastburn,21025863.,Auction,08/04/2018,Regent Park,3,42.445893,-82.955028,"location
+(42.445893, -82.955028)"
+14560 Asbury Park,22061340.,Rehabbed and Ready,07/06/2018,Greenfield-Grand River,1,42.395009,-83.207844,"location
+(42.395009, -83.207844)"
+6751 Montrose,22053504.,Auction,08/12/2018,Warren Ave Community,7,42.340819,-83.198907,"location
+(42.340819, -83.198907)"
+5118 Garvin,13006646.,Auction,08/06/2018,Buffalo Charles,3,42.410741,-83.050148,"location
+(42.410741, -83.050148)"
+12133 Plainview,22094559.,Own It Now,07/09/2018,Weatherby,7,42.376016,-83.235489,"location
+(42.376016, -83.235489)"
+12088 Rosemont,22076345.,Auction,08/13/2018,Southfield Plymouth,7,42.375696,-83.219033,"location
+(42.375696, -83.219033)"
+18455 Revere,13022742.,Auction,07/25/2018,Conant Gardens,3,42.428118,-83.067943,"location
+(42.428118, -83.067943)"
+17373 Griggs,16041531.,Auction,08/09/2018,Schulze,2,42.419711,-83.164043,"location
+(42.419711, -83.164043)"
+13501 Stahelin,22083753.,Auction,08/10/2018,Schoolcraft Southfield,1,42.384294,-83.226251,"location
+(42.384294, -83.226251)"
+18450 Norwood,13022099.,Own It Now,02/26/2018,Conant Gardens,3,42.428069,-83.066767,"location
+(42.428069, -83.066767)"
+18403 Steel,22022753.,Auction,08/09/2018,Schulze,2,42.425921,-83.173135,"location
+(42.425921, -83.173135)"
+7349 Churchill,08005752.,Auction,07/31/2018,Henry Ford,5,42.36478,-83.090635,"location
+(42.36478, -83.090635)"
+19030 Charest,13023466.,Own It Now,06/25/2018,Conant Gardens,3,42.432539,-83.070613,"location
+(42.432539, -83.070613)"
+18453 Monica,16021649.,Auction,08/10/2018,Bagley,2,42.426953,-83.144815,"location
+(42.426953, -83.144815)"
+9132 Woodhall,21075969-74,Auction,08/07/2018,Yorkshire Woods,4,42.419187,-82.934846,"location
+(42.419187, -82.934846)"
+9181 Woodhall,21075997.,Auction,08/10/2018,Yorkshire Woods,4,42.419087,-82.935938,"location
+(42.419087, -82.935938)"
+8461 E Outer Drive,21080800.,Auction,08/03/2018,Eden Gardens,4,42.409231,-82.988568,"location
+(42.409231, -82.988568)"
+20166 Kentucky,16036740.,Auction,07/30/2018,Garden Homes,2,42.441933,-83.159967,"location
+(42.441933, -83.159967)"
+19965 Northlawn,16032109.,Auction,07/30/2018,Garden Homes,2,42.439571,-83.154899,"location
+(42.439571, -83.154899)"
+20164 Mendota,16043138.,Own It Now,05/07/2018,Pembroke,2,42.441761,-83.166437,"location
+(42.441761, -83.166437)"
+1859 E Grand Blvd,13003556.,Own It Now,07/30/2018,Poletown East,5,42.374313,-83.037222,"location
+(42.374313, -83.037222)"
+1761 E Grand Blvd,13003533.,Own It Now,07/09/2018,Poletown East,5,42.375536,-83.033972,"location
+(42.375536, -83.033972)"
+15754 Evergreen,22095655.,Auction,08/03/2018,Minock Park,1,42.405511,-83.237246,"location
+(42.405511, -83.237246)"
+15411 Minock,22091226.,Auction,07/30/2018,Minock Park,1,42.402316,-83.234146,"location
+(42.402316, -83.234146)"
+13961 Auburn,22092704.,Auction,08/04/2018,Westwood Park,1,42.387283,-83.234802,"location
+(42.387283, -83.234802)"
+12821 14th St,08009375.,Own It Now,06/25/2018,Dexter-Linwood,5,42.392478,-83.114477,"location
+(42.392478, -83.114477)"
+15606 Baylis,08009986.,Own It Now,06/04/2018,Pilgrim Village,2,42.406942,-83.123469,"location
+(42.406942, -83.123469)"
+13880 Maine,09012399.,Own It Now,05/29/2018,North Campau,3,42.415662,-83.072479,"location
+(42.415662, -83.072479)"
+18855 Goddard,09014211.,Own It Now,07/16/2018,Northeast Central District,3,42.43131,-83.078496,"location
+(42.43131, -83.078496)"
+18034 Russell,09020618.,Own It Now,09/18/2017,Hawthorne Park,3,42.425621,-83.089529,"location
+(42.425621, -83.089529)"
+2707 Wreford,10000872.,Own It Now,09/25/2017,NW Goldberg,5,42.356944,-83.099511,"location
+(42.356944, -83.099511)"
+2653 Lothrop,10001117.,Own It Now,07/30/2018,Wildemere Park,5,42.360821,-83.101532,"location
+(42.360821, -83.101532)"
+2933 Lothrop,12001169.,Own It Now,11/13/2017,Wildemere Park,5,42.359888,-83.104028,"location
+(42.359888, -83.104028)"
+2940 Vicksburg,12001771.,Own It Now,10/30/2017,Wildemere Park,5,42.364641,-83.107331,"location
+(42.364641, -83.107331)"
+2910 Vicksburg,12001775.,Own It Now,11/13/2017,Wildemere Park,5,42.364815,-83.10687,"location
+(42.364815, -83.10687)"
+2989 Virginia Park,12001789.,Own It Now,11/27/2017,Wildemere Park,5,42.364658,-83.10837,"location
+(42.364658, -83.10837)"
+3044 Taylor,12002557.,Own It Now,07/30/2018,Jamison,5,42.370379,-83.113328,"location
+(42.370379, -83.113328)"
+3359 Leslie,12004108.,Own It Now,07/06/2018,Dexter-Linwood,5,42.3861,-83.127547,"location
+(42.3861, -83.127547)"
+15708 Alden,12011200-1,Own It Now,07/30/2018,Pilgrim Village,2,42.406685,-83.130264,"location
+(42.406685, -83.130264)"
+19148 Conley,13016555.,Own It Now,07/30/2018,Farwell,3,42.434148,-83.05234,"location
+(42.434148, -83.05234)"
+13443 Conley,13016869.,Own It Now,01/15/2018,Davison,3,42.415962,-83.052026,"location
+(42.415962, -83.052026)"
+18084 Fenelon,13016946.,Own It Now,07/16/2018,Krainz Woods,3,42.427304,-83.052747,"location
+(42.427304, -83.052747)"
+19181 Fenelon,13017239.,Own It Now,05/14/2018,Farwell,3,42.434515,-83.054168,"location
+(42.434515, -83.054168)"
+4291 Cortland,14004544.,Own It Now,02/19/2018,Russell Woods,7,42.38105,-83.132682,"location
+(42.38105, -83.132682)"
+4921 Cortland,14004570.,Own It Now,07/23/2018,Russell Woods,7,42.378829,-83.138575,"location
+(42.378829, -83.138575)"
+18695 Helen,15009404.,Own It Now,12/04/2017,Grant,3,42.431575,-83.031914,"location
+(42.431575, -83.031914)"
+5403 Oregon,16002688.,Own It Now,06/25/2018,Midwest,6,42.354863,-83.127349,"location
+(42.354863, -83.127349)"
+9302 Woodside,16018465.,Own It Now,03/19/2018,Midwest,6,42.363997,-83.137873,"location
+(42.363997, -83.137873)"
+12097 Prairie,16023415.,Own It Now,06/04/2018,Oakman Blvd Community,7,42.377513,-83.143828,"location
+(42.377513, -83.143828)"
+12025 Prairie,16023425.,Own It Now,07/23/2018,Oakman Blvd Community,7,42.376536,-83.143787,"location
+(42.376536, -83.143787)"
+13147 Tuller,16027174.,Own It Now,07/02/2018,Oakman Blvd Community,7,42.384681,-83.146667,"location
+(42.384681, -83.146667)"
+12678 Northlawn,16031630.,Own It Now,07/16/2018,Littlefield Community,7,42.382102,-83.152506,"location
+(42.382102, -83.152506)"
+8273 Knodell,17001938.,Own It Now,05/07/2018,Airport Sub,3,42.398588,-83.017691,"location
+(42.398588, -83.017691)"
+8103 E Grixdale,17004531.,Own It Now,11/27/2017,Mount Olivet,3,42.429844,-83.022022,"location
+(42.429844, -83.022022)"
+19688 Beland,17015395-6,Own It Now,07/09/2018,Pulaski,3,42.439849,-83.008762,"location
+(42.439849, -83.008762)"
+10351 Beechdale,18006273.,Own It Now,10/23/2017,Barton-McFarland,7,42.37022,-83.162843,"location
+(42.37022, -83.162843)"
+5954 Belvidere,19007680.,Own It Now,06/18/2018,Gratiot Woods,5,42.388589,-83.006726,"location
+(42.388589, -83.006726)"
+5412 Rohns,19009142.,Own It Now,07/16/2018,Gratiot Woods,5,42.383647,-83.005931,"location
+(42.383647, -83.005931)"
+13344 Wade,21006047.,Own It Now,07/30/2018,Outer Drive-Hayes,4,42.406085,-82.971016,"location
+(42.406085, -82.971016)"
+11828 Maiden,21006525.,Own It Now,07/02/2018,Wade,4,42.401494,-82.987032,"location
+(42.401494, -82.987032)"
+11779 Maiden,21006589.,Own It Now,01/15/2018,Wade,4,42.401612,-82.988091,"location
+(42.401612, -82.988091)"
+11109 Wilshire,21008526.,Own It Now,04/16/2018,Wade,4,42.405477,-82.992814,"location
+(42.405477, -82.992814)"
+14300 Glenfield,21010423.,Own It Now,05/07/2018,Eden Gardens,4,42.417091,-82.973639,"location
+(42.417091, -82.973639)"
+14438 Maddelein,21021451.,Own It Now,05/29/2018,Regent Park,3,42.435742,-82.97434,"location
+(42.435742, -82.97434)"
+14578 Lappin,21021737.,Own It Now,03/12/2018,Regent Park,3,42.436743,-82.971842,"location
+(42.436743, -82.971842)"
+14739 Lappin,21021816.,Own It Now,03/26/2018,Regent Park,3,42.43735,-82.970867,"location
+(42.43735, -82.970867)"
+14726 Novara,21022443.,Own It Now,01/08/2018,Regent Park,3,42.439059,-82.971134,"location
+(42.439059, -82.971134)"
+14711 Tacoma,21023829.,Own It Now,10/23/2017,Regent Park,3,42.44193,-82.97152,"location
+(42.44193, -82.97152)"
+19159 Reno,21029399.,Own It Now,10/30/2017,Franklin,3,42.435857,-82.983296,"location
+(42.435857, -82.983296)"
+12886 Hickory,21030210.,Own It Now,07/30/2018,Gratiot-Findlay,4,42.425577,-82.985876,"location
+(42.425577, -82.985876)"
+18480 Westphalia,21031610.,Own It Now,06/18/2018,Von Steuben,3,42.430511,-82.991924,"location
+(42.430511, -82.991924)"
+18719 Westphalia,21031894.,Own It Now,05/29/2018,Von Steuben,3,42.432806,-82.992707,"location
+(42.432806, -82.992707)"
+18508 Goulburn,21032107.,Own It Now,06/11/2018,Von Steuben,3,42.430855,-82.993161,"location
+(42.430855, -82.993161)"
+18716 Goulburn,21032125.,Own It Now,05/14/2018,Von Steuben,3,42.432792,-82.993224,"location
+(42.432792, -82.993224)"
+18515 Goulburn,21032402.,Own It Now,06/04/2018,Von Steuben,3,42.43094,-82.993842,"location
+(42.43094, -82.993842)"
+19791 Annott,21035585.,Own It Now,04/30/2018,Pulaski,3,42.441496,-83.002856,"location
+(42.441496, -83.002856)"
+12519 Whitehill,21058252.,Own It Now,07/23/2018,Moross-Morang,4,42.431533,-82.949055,"location
+(42.431533, -82.949055)"
+4549 Farmbrook,21078205.,Own It Now,05/14/2018,Cornerstone Village,4,42.406915,-82.917906,"location
+(42.406915, -82.917906)"
+22440 Puritan,22012192.,Own It Now,02/05/2018,Riverdale,1,42.407689,-83.262927,"location
+(42.407689, -83.262927)"
+14225 SORRENTO,22024194.,Own It Now,06/25/2018,Happy Homes,7,42.391763,-83.172486,"location
+(42.391763, -83.172486)"
+12103 Ward,22025363.,Own It Now,07/02/2018,Pride Area Community,7,42.376983,-83.173577,"location
+(42.376983, -83.173577)"
+15000 Cheyenne,22025830.,Own It Now,07/02/2018,Bethune Community,2,42.400097,-83.174386,"location
+(42.400097, -83.174386)"
+9980 Carlin,22032080.,Own It Now,11/27/2017,Plymouth-Hubbell,7,42.369455,-83.178691,"location
+(42.369455, -83.178691)"
+14591 Ardmore,22035283.,Own It Now,11/13/2017,Bethune Community,1,42.396019,-83.184542,"location
+(42.396019, -83.184542)"
+14320 Freeland,22035554.,Own It Now,06/11/2018,Hubbell-Lyndon,1,42.392821,-83.184838,"location
+(42.392821, -83.184838)"
+12101 Winthrop,22052491.,Own It Now,06/18/2018,Plymouth-I96,7,42.376174,-83.199246,"location
+(42.376174, -83.199246)"
+12936 Montrose,22053031.,Auction,08/03/2018,Schoolcraft Southfield,1,42.384331,-83.200083,"location
+(42.384331, -83.200083)"
+11391 St Marys,22059303.,Own It Now,06/25/2018,Joy Community,7,42.371422,-83.205065,"location
+(42.371422, -83.205065)"
+19315 Oakfield,22069563.,Own It Now,06/18/2018,Greenfield,2,42.432322,-83.215428,"location
+(42.432322, -83.215428)"
+14324 Minock,22090805.,Own It Now,04/09/2018,Westwood Park,1,42.391549,-83.233097,"location
+(42.391549, -83.233097)"
+18519 Braile,22105567.,Own It Now,04/30/2018,Holcomb Community,1,42.425981,-83.246484,"location
+(42.425981, -83.246484)"
+14151 Braile,22105794.,Own It Now,07/02/2018,Brightmoor,1,42.389272,-83.244686,"location
+(42.389272, -83.244686)"
+16725 Rockdale,22114319.,Own It Now,04/23/2018,Riverdale,1,42.411808,-83.258827,"location
+(42.411808, -83.258827)"
+15361 Lamphere,22116502.,Own It Now,06/04/2018,Brightmoor,1,42.401669,-83.262174,"location
+(42.401669, -83.262174)"
+16725 Bramell,22117754.,Own It Now,06/04/2018,Riverdale,1,42.411725,-83.265053,"location
+(42.411725, -83.265053)"
+1631 E Outer Drive,13008916.,Auction,07/28/2018,Butler,3,42.440561,-83.078044,"location
+(42.440561, -83.078044)"
+3200 E Outer Drive,13008715.,Auction,07/29/2018,Farwell,3,42.440342,-83.048948,"location
+(42.440342, -83.048948)"
+9239 Grayton,21074133.,Auction,08/03/2018,Yorkshire Woods,4,42.416732,-82.941708,"location
+(42.416732, -82.941708)"
+9261 Grayton,21074130.,Auction,07/22/2018,Yorkshire Woods,4,42.416903,-82.942088,"location
+(42.416903, -82.942088)"
+15839 Fairmount Dr,21025442.001,Auction,08/05/2018,Regent Park,3,42.444975,-82.957696,"location
+(42.444975, -82.957696)"
+15919 E State Fair,21024574.,Auction,08/12/2018,Regent Park,3,42.443151,-82.956185,"location
+(42.443151, -82.956185)"
+16005 E State Fair,21024575-6,Auction,08/07/2018,Regent Park,3,42.443158,-82.955784,"location
+(42.443158, -82.955784)"
+8279 Kentucky,18015789.,Auction,07/24/2018,Barton-McFarland,7,42.355308,-83.156874,"location
+(42.355308, -83.156874)"
+8587 Northlawn,18014807.,Auction,07/27/2018,Barton-McFarland,7,42.357941,-83.152277,"location
+(42.357941, -83.152277)"
+8357 Roselawn,18014281.,Auction,08/15/2018,Barton-McFarland,7,42.356503,-83.150174,"location
+(42.356503, -83.150174)"
+10442 Merlin,21074861.,Auction,08/01/2018,Yorkshire Woods,4,42.420696,-82.940797,"location
+(42.420696, -82.940797)"
+20475 Greenlawn,16029682.,Auction,08/15/2018,Garden Homes,2,42.44457,-83.152644,"location
+(42.44457, -83.152644)"
+560 Hague,03002270.,Auction,07/29/2018,North End,5,42.381162,-83.071894,"location
+(42.381162, -83.071894)"
+14981 E State Fair,21024496.,Auction,07/22/2018,Regent Park,3,42.442915,-82.967238,"location
+(42.442915, -82.967238)"
+15225 E State Fair,21024510.,Auction,08/15/2018,Regent Park,3,42.442966,-82.965206,"location
+(42.442966, -82.965206)"
+15600 Bringard Dr,21026007.,Auction,08/14/2018,Regent Park,3,42.446131,-82.960823,"location
+(42.446131, -82.960823)"
+15645 Rossini Drive,21025014.,Own It Now,07/02/2018,Regent Park,3,42.444042,-82.959981,"location
+(42.444042, -82.959981)"
+15708 Eastburn,21025579.001,Auction,07/22/2018,Regent Park,3,42.445322,-82.958851,"location
+(42.445322, -82.958851)"
+15467 Cherrylawn,16033361.,Own It Now,05/07/2018,Fitzgerald/Marygrove,2,42.405337,-83.154735,"location
+(42.405337, -83.154735)"
+1708 Kendall,06004260.,Own It Now,06/04/2018,Oakman Blvd Community,2,42.400927,-83.115853,"location
+(42.400927, -83.115853)"
+8620 Roselawn,18014142.,Auction,08/09/2018,Barton-McFarland,6,42.358472,-83.149738,"location
+(42.358472, -83.149738)"
+12000 Gunston,21036434-6,Own It Now,06/25/2018,Gratiot-Findlay,4,42.414893,-82.999351,"location
+(42.414893, -82.999351)"
+700 W Brentwood,01006846.,Own It Now,07/23/2018,Grixdale Farms,2,42.431545,-83.112881,"location
+(42.431545, -83.112881)"
+2965 Clements,12004526.,Own It Now,07/30/2018,Oakman Blvd Community,2,42.392181,-83.126329,"location
+(42.392181, -83.126329)"
+10944 Wilshire,21008502.,Own It Now,07/23/2018,Wade,4,42.403992,-82.995157,"location
+(42.403992, -82.995157)"
+7715 Longacre,22070812.,Own It Now,07/16/2018,Warren Ave Community,7,42.348358,-83.214206,"location
+(42.348358, -83.214206)"
+4873 Grayton,21074231.,Auction,08/06/2018,East English Village,4,42.404405,-82.931873,"location
+(42.404405, -82.931873)"
+6515 Gladys,18003012.,Auction,07/27/2018,Claytown,6,42.338735,-83.1295,"location
+(42.338735, -83.1295)"
+6788 Minock,22090469.,Own It Now,01/29/2018,Warrendale,7,42.340846,-83.231254,"location
+(42.340846, -83.231254)"
+6417 Grandville,22089063.,Auction,07/27/2018,Warrendale,7,42.337617,-83.229411,"location
+(42.337617, -83.229411)"
+11711 Nardin,16018317.,Own It Now,07/23/2018,Nardin Park,7,42.374981,-83.136525,"location
+(42.374981, -83.136525)"
+5034 Radnor,21078239-43,Own It Now,03/12/2018,Cornerstone Village,4,42.410844,-82.918603,"location
+(42.410844, -82.918603)"
+6500 Ashton,22074667.,Auction,08/12/2018,Warrendale,7,42.33895,-83.216678,"location
+(42.33895, -83.216678)"
+6867 Greenview,22080714.,Auction,08/12/2018,Warrendale,7,42.342055,-83.222264,"location
+(42.342055, -83.222264)"
+18637 Greenview,22080221.,Auction,08/09/2018,Evergreen-Outer Drive,1,42.427392,-83.225658,"location
+(42.427392, -83.225658)"
+18944 Murray Hill,22060166.,Auction,08/08/2018,College Park,2,42.429128,-83.208138,"location
+(42.429128, -83.208138)"
+17163 Westphalia,21031961.,Own It Now,07/30/2018,Von Steuben,3,42.425135,-82.992478,"location
+(42.425135, -82.992478)"
+10266 Balfour,21067823.,Auction,07/31/2018,Yorkshire Woods,4,42.415902,-82.94763,"location
+(42.415902, -82.94763)"
+13219 Greiner,21020525.,Own It Now,07/23/2018,Franklin,3,42.427834,-82.989299,"location
+(42.427834, -82.989299)"
+12923 Forrer,22054588.,Auction,08/04/2018,Schoolcraft Southfield,1,42.384077,-83.201983,"location
+(42.384077, -83.201983)"
+4067 Tyler,14005255.,Own It Now,06/18/2018,Russell Woods,7,42.386751,-83.133678,"location
+(42.386751, -83.133678)"
+19947 Prairie,16023090.,Auction,07/28/2018,Garden Homes,2,42.439509,-83.146387,"location
+(42.439509, -83.146387)"
+13960 Pierson,22106382.,Own It Now,06/25/2018,Brightmoor,1,42.38706,-83.245106,"location
+(42.38706, -83.245106)"
+15893 Chatham,22117140.,Own It Now,09/25/2017,Brightmoor,1,42.406999,-83.263735,"location
+(42.406999, -83.263735)"
+8799 Desoto,16006398.,Own It Now,07/09/2018,Chalfonte,2,42.400849,-83.158425,"location
+(42.400849, -83.158425)"
+9560 Pinehurst,18017518.,Own It Now,11/27/2017,Barton-McFarland,7,42.366986,-83.165209,"location
+(42.366986, -83.165209)"
+2200 Elmhurst,08003578.,Own It Now,07/02/2018,Dexter-Linwood,5,42.387105,-83.109888,"location
+(42.387105, -83.109888)"
+15557 Wabash,08009058.,Own It Now,01/08/2018,Pilgrim Village,2,42.406377,-83.119354,"location
+(42.406377, -83.119354)"
+17871 Maine,09012665.,Own It Now,04/23/2018,Cadillac Heights,3,42.424403,-83.075684,"location
+(42.424403, -83.075684)"
+13532 Arlington,09013606.,Own It Now,06/11/2018,North Campau,3,42.413369,-83.07313,"location
+(42.413369, -83.07313)"
+18600 Marx,09017193.,Own It Now,05/29/2018,Northeast Central District,3,42.429677,-83.083589,"location
+(42.429677, -83.083589)"
+18931 Marx,09017473.,Own It Now,06/18/2018,Northeast Central District,3,42.432241,-83.084418,"location
+(42.432241, -83.084418)"
+18616 Riopelle,09018540.,Own It Now,07/30/2018,Hawthorne Park,3,42.429833,-83.086052,"location
+(42.429833, -83.086052)"
+18841 Cardoni,09021347.,Own It Now,07/02/2018,Hawthorne Park,3,42.43078,-83.091712,"location
+(42.43078, -83.091712)"
+2999 Lothrop,12001180.,Own It Now,07/16/2018,Wildemere Park,5,42.359483,-83.10512,"location
+(42.359483, -83.10512)"
+15910 Holmur,12012466.,Own It Now,07/23/2018,Pilgrim Village,2,42.409332,-83.137228,"location
+(42.409332, -83.137228)"
+3366 E Warren,13002727.,Own It Now,03/05/2018,McDougall-Hunt,5,42.368291,-83.032914,"location
+(42.368291, -83.032914)"
+19710 Gable,13012503.,Own It Now,05/14/2018,Farwell,3,42.440097,-83.042569,"location
+(42.440097, -83.042569)"
+19450 Conley,13016594-5,Own It Now,07/02/2018,Farwell,3,42.438103,-83.052518,"location
+(42.438103, -83.052518)"
+13409 Moenart,13016054.,Own It Now,07/23/2018,Davison,3,42.415527,-83.049903,"location
+(42.415527, -83.049903)"
+19202 Hasse,13018009.,Own It Now,07/30/2018,Farwell,3,42.4348,-83.056572,"location
+(42.4348, -83.056572)"
+19399 Eureka,13018570-1,Own It Now,04/16/2018,Farwell,3,42.437229,-83.058251,"location
+(42.437229, -83.058251)"
+19688 Justine,13018855.,Own It Now,05/29/2018,Farwell,3,42.439455,-83.058819,"location
+(42.439455, -83.058819)"
+20046 Gallagher,13023238.,Auction,07/28/2018,Butler,3,42.442497,-83.070507,"location
+(42.442497, -83.070507)"
+4664 Seebaldt,14001857.,Own It Now,10/23/2017,Midwest,6,42.355176,-83.120133,"location
+(42.355176, -83.120133)"
+4635 Lovett,14010800.,Own It Now,11/27/2017,Chadsey Condon,6,42.339511,-83.109301,"location
+(42.339511, -83.109301)"
+19212 Concord,15011172.,Own It Now,03/26/2018,Nortown,3,42.435463,-83.03259,"location
+(42.435463, -83.03259)"
+12667 Kentucky,16037195.,Own It Now,06/25/2018,Littlefield Community,7,42.381796,-83.158121,"location
+(42.381796, -83.158121)"
+8108 Willard,17000617.,Own It Now,04/09/2018,Gratiot-Grand,5,42.374837,-83.010219,"location
+(42.374837, -83.010219)"
+5446 Parker,17008900.,Own It Now,07/23/2018,Gratiot Town/Ketterring,5,42.380571,-83.014393,"location
+(42.380571, -83.014393)"
+11311 Manor,18018337.,Own It Now,07/16/2018,Barton-McFarland,7,42.37129,-83.167216,"location
+(42.37129, -83.167216)"
+10440 Sterritt,19002060.,Own It Now,07/16/2018,Airport Sub,3,42.395098,-83.000178,"location
+(42.395098, -83.000178)"
+10369 Sterritt,19002101-2,Own It Now,06/25/2018,Airport Sub,3,42.395575,-83.000919,"location
+(42.395575, -83.000919)"
+9675 Woodlawn,19003082.,Own It Now,04/16/2018,Airport Sub,3,42.399807,-83.00702,"location
+(42.399807, -83.00702)"
+1401 Annabelle,20012871.048,Own It Now,07/30/2018,Boynton,6,42.277739,-83.147691,"location
+(42.277739, -83.147691)"
+13445 Wade,21006349.,Own It Now,04/23/2018,Outer Drive-Hayes,4,42.407086,-82.969556,"location
+(42.407086, -82.969556)"
+12575 Elmdale,21007370.,Own It Now,11/27/2017,Wade,4,42.406236,-82.980554,"location
+(42.406236, -82.980554)"
+12520 Kilbourne,21009975.,Own It Now,07/23/2018,Eden Gardens,4,42.411853,-82.985254,"location
+(42.411853, -82.985254)"
+12092 Nashville,21013646.,Own It Now,07/16/2018,LaSalle College Park,4,42.418517,-82.995905,"location
+(42.418517, -82.995905)"
+19311 Goulburn,21032357.,Own It Now,07/30/2018,Pulaski,3,42.436761,-82.994098,"location
+(42.436761, -82.994098)"
+18509 Goulburn,21032403.,Own It Now,04/30/2018,Von Steuben,3,42.430837,-82.993839,"location
+(42.430837, -82.993839)"
+19195 Dresden,21034892.,Own It Now,07/30/2018,Pulaski,3,42.436008,-83.000181,"location
+(42.436008, -83.000181)"
+20051 Annott,21035565.,Own It Now,07/02/2018,Conner Creek,3,42.44433,-83.002959,"location
+(42.44433, -83.002959)"
+5556 Lakeview,21052389.,Own It Now,06/18/2018,Chandler Park,4,42.39805,-82.965756,"location
+(42.39805, -82.965756)"
+5258 Newport,21053942.,Own It Now,06/11/2018,Chandler Park,4,42.397274,-82.962298,"location
+(42.397274, -82.962298)"
+4810 Lakepointe,21064621.,Own It Now,07/02/2018,Morningside,4,42.396794,-82.950053,"location
+(42.396794, -82.950053)"
+4382 Nottingham,21066412.,Own It Now,04/23/2018,Morningside,4,42.395392,-82.945992,"location
+(42.395392, -82.945992)"
+11500 Nottingham,21066652.,Own It Now,11/20/2017,Moross-Morang,4,42.425688,-82.942977,"location
+(42.425688, -82.942977)"
+4870 Lodewyck,21077784.,Own It Now,03/26/2018,Cornerstone Village,4,42.40885,-82.919608,"location
+(42.40885, -82.919608)"
+5959 Radnor,21078376.,Own It Now,01/15/2018,Cornerstone Village,4,42.417456,-82.923729,"location
+(42.417456, -82.923729)"
+15081 Strathmoor,22038371.,Own It Now,01/08/2018,Bethune Community,1,42.400824,-83.188056,"location
+(42.400824, -83.188056)"
+8056 Hubbell,22038685-6,Own It Now,07/23/2018,Joy-Schaefer,7,42.351963,-83.186582,"location
+(42.351963, -83.186582)"
+13360 Hubbell,22038924.,Own It Now,05/21/2018,Schoolcraft Southfield,1,42.386352,-83.188084,"location
+(42.386352, -83.188084)"
+13305 Hubbell,22040116.,Own It Now,07/23/2018,Schoolcraft Southfield,1,42.385556,-83.188678,"location
+(42.385556, -83.188678)"
+14483 Robson,22044282.,Own It Now,03/19/2018,Hubbell-Lyndon,1,42.39421,-83.192826,"location
+(42.39421, -83.192826)"
+9980 Coyle,22044724.,Own It Now,11/27/2017,Plymouth-Hubbell,7,42.369138,-83.192742,"location
+(42.369138, -83.192742)"
+9577 Forrer,22054707.,Own It Now,07/02/2018,Joy Community,7,42.366466,-83.201271,"location
+(42.366466, -83.201271)"
+19510 Mansfield,22057485.,Own It Now,07/23/2018,Greenfield,2,42.435552,-83.206173,"location
+(42.435552, -83.206173)"
+6856 Mettetal,22059568.,Auction,08/13/2018,Warren Ave Community,7,42.342186,-83.204458,"location
+(42.342186, -83.204458)"
+9060 Auburn,22092296.,Own It Now,11/06/2017,Franklin Park,7,42.360296,-83.233205,"location
+(42.360296, -83.233205)"
+6831 Auburn,22092989-90,Own It Now,01/29/2018,Warrendale,7,42.341371,-83.233152,"location
+(42.341371, -83.233152)"
+9220 Woodhall,21075986.,Own It Now,02/05/2018,Yorkshire Woods,4,42.419745,-82.936208,"location
+(42.419745, -82.936208)"
+5063 Mcclellan,19007141.,Own It Now,11/13/2017,Gratiot Woods,5,42.381532,-83.001203,"location
+(42.381532, -83.001203)"
+15682 Maddelein,21021365.,Own It Now,01/15/2018,Regent Park,3,42.436209,-82.959016,"location
+(42.436209, -82.959016)"
+17875 Yonka,13022049-50,Own It Now,07/23/2018,Davison,3,42.425019,-83.065919,"location
+(42.425019, -83.065919)"
+11869 College,21013629.,Own It Now,07/23/2018,LaSalle College Park,4,42.417419,-82.997723,"location
+(42.417419, -82.997723)"
+5972 Pennsylvania,19005789.,Own It Now,05/21/2018,West End,4,42.390537,-83.003399,"location
+(42.390537, -83.003399)"
+19487 Stotter,15005853.,Own It Now,07/23/2018,Nortown,3,42.438612,-83.025752,"location
+(42.438612, -83.025752)"
+9575 Sorrento,22024368.,Own It Now,07/30/2018,Barton-McFarland,7,42.367052,-83.171984,"location
+(42.367052, -83.171984)"
+20213 Barlow,21033287-8,Own It Now,11/20/2017,Conner Creek,3,42.445724,-82.996866,"location
+(42.445724, -82.996866)"
+14260 Lamphere,22116174.,Own It Now,06/25/2018,Eliza Howell,1,42.390483,-83.261076,"location
+(42.390483, -83.261076)"
+9602 Vaughan,22097500.,Own It Now,07/16/2018,Franklin Park,7,42.366237,-83.236946,"location
+(42.366237, -83.236946)"
+9247 Steel,22023164.,Own It Now,07/09/2018,Barton-McFarland,7,42.363111,-83.170662,"location
+(42.363111, -83.170662)"
+16100 Bramell,22117688.,Own It Now,07/09/2018,Riverdale,1,42.407994,-83.264374,"location
+(42.407994, -83.264374)"
+12731 Birwood,16042702.,Own It Now,06/11/2018,Grand River-I96,7,42.382533,-83.163467,"location
+(42.382533, -83.163467)"
+19360 Albion,17014271.,Own It Now,01/15/2018,Pulaski,3,42.43737,-83.005579,"location
+(42.43737, -83.005579)"
+19307 Fenmore,22072582.,Own It Now,07/23/2018,Greenfield,2,42.432087,-83.218655,"location
+(42.432087, -83.218655)"

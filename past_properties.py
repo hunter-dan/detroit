@@ -1,17 +1,35 @@
 # this file scrapes the data from all past auctions/sales on the building Detroit website
 
+import os
 import csv
-import requests
-import json
-from BeautifulSoup import BeautifulSoup
+from googlesearch import search
 
-page = 1
-while page <=141: #141 total pages as of 5/23
-    url = 'https://buildingdetroit.org/properties/pastlistings?location=&listingtype=list&category=&district=&bedrooms=&bathrooms=&minsqft=&maxsqft=&fromsaledate=&tosaledate=&page={}'.format(page)
-    page = page + 1
-    response = requests.get(url)
-    html = response.content
-    soup = BeautifulSoup(html)
-    dataset = soup.find('script', attrs={'class': 'left resultscontainer'})
+#https://cse.google.com/cse/publicurl?cx=007401815838453618094:ek-abrltudo
+#https://www.googleapis.com/customsearch/v1/siterestrict?[parameters]
+# search engine ID : 007401815838453618094:ek-abrltudo
 
+#https://buildingdetroit.org/properties/pastlistings?location=&listingtype=list&category=&district=&bedrooms=&bathrooms=&minsqft=&maxsqft=&fromsaledate=&tosaledate=&page=
+# 151 pages as of 7/26
 
+#step 1. build a list with all of the property urls
+#step 2. crawl through list to extract data
+
+cwd = os.getcwd()
+pathName = os.path.join(cwd, "DLBA_Auctions_Closed.csv")
+
+property_list = []
+full_doc = []
+with open('DLBA_Auctions_Closed.csv', 'rb') as csvfile:
+    csvfile = csv.reader(csvfile)
+    for row in csvfile:
+        property_list.append(row[0])
+print(property_list)
+
+row_count = -1
+prop_list = iter(property_list)
+next(prop_list)
+for x in prop_list:
+    query = x + " " + "buildingdetroit.org/properties"
+    for j in search(query, tld='com', num=1,stop=1,pause=4):
+        full_doc.append(x + j)
+        print(x + j)
