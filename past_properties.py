@@ -1,11 +1,12 @@
 # this file scrapes the data from all past auctions/sales on the building Detroit website
 
 import os
-import csv
-from googlesearch import search
-from urllib import urljoin
 import requests
+import re
+import json
+import csv
 from BeautifulSoup import BeautifulSoup
+
 
 # https://cse.google.com/cse/publicurl?cx=007401815838453618094:ek-abrltudo
 # https://www.googleapis.com/customsearch/v1/siterestrict?[parameters]
@@ -20,45 +21,53 @@ cwd = os.getcwd()
 pathName = os.path.join(cwd, "DLBA_Auctions_Closed.csv")
 
 property_list = []
+raw_data = []
 
 page = 1
-while page <= 151:
+while page <= 2:
     # Progress tracking
-    print "Scraping " + " Page" + " " + str(page)
+    print "Scraping " + "Page" + " " + str(page)
 
     # Set up URL pattern
-
     base_url = 'https://buildingdetroit.org/properties/'
     mid_url = 'pastlistings?location=&listingtype=list&category=&district=&bedrooms=&bathrooms=&minsqft=&maxsqft='
-    url = urljoin(base_url, mid_url, '&fromsaledate=&tosaledate=&page={}'.format(page))
+    url = base_url + mid_url + '&fromsaledate=&tosaledate=&page={}'.format(page)
     print(url)
-
-    response = requests.get(url)
-    html = response.content
-
-    # FIX STARTING HERE
-    soup = BeautifulSoup(html)
-    dataset = soup.find('div', attrs={'class': 'left resultscontainer'})
     page = page + 1
 
-    for propName in dataset.findAll('div', attrs={'class': 'propName'}):
-        name = str(propName.find('a').text.replace('&nbsp;', ''))  # type: str
-        name = name.replace(' ,', "-,")
-        name = name.replace('  ', ', ')
-        name = name.replace('$', ', $')
-        name = name.replace(' Acres', '')
-        commaCount = 5 - name.count(', ')
-        if commaCount > 0:
-            name = name + (', '*commaCount)
-        href = propName.find('a')['href']
-        propId = href[-9:].replace('/','')
-        propId = propId.replace('d','')
-        name = name + ", " + href + ", " + propId
+    response = requests.get(url)
+    soup = BeautifulSoup(response.text)
+    text = soup.findAll(type="text/javascript")[20].string
+    text = text.split('[',1)[1]
+    parsed_text = text.split('},')
+    s_count = 1
+    props = []
+    for s in parsed_text:
+        while s_count < 46:
+            s_list = str(s.split(':'))
+            s_list = s_list.split(",")
+            print "Prop " + str(s_count) + ". " + str(s_list)
+            address = str(s_list[1])
+            identifier = str(s_list[27])
+            pid = str(s_list[3])
+            url1 = "buildingdetroit.org/properties/" + identifier + "-" + pid
+            url2 = "buildingdetroit.org/properties/" + identifier
+            row = address + ", " + identifier + ", " + pid + ", " + url1 + ", " + url2
+            row = row.replace('"', '')
+            row = row.replace('u\'', '')
+            props.append(row)
+            s_count = s_count + 1
 
-        with open('./detroit_pastlistings.csv', 'wb') as outfile:
-            writer = csv.writer(outfile)
-            writer.writerow(["Size (Acres)", "City", "County", "State", "Price", "Notes", "Link", "Property ID"])
-            writer.writerows(property_list)
+    # Split list into matrix
+    for row in props:
+        splitRow = row.split(', ')
+        property_list.append(splitRow)
+
+
+with open('./detroit_pastlistings.csv', 'wb') as outfile:
+    writer = csv.writer(outfile)
+    writer.writerow(["Address", "Identifier", "PID", "URL1", "URL2"])
+    writer.writerows(property_list)
 
 # step 2. crawl through list to extract data
 # use the list of URLs collected in step 1
