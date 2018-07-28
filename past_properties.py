@@ -2,15 +2,8 @@
 
 import os
 import requests
-import re
-import json
 import csv
 from BeautifulSoup import BeautifulSoup
-
-
-# https://cse.google.com/cse/publicurl?cx=007401815838453618094:ek-abrltudo
-# https://www.googleapis.com/customsearch/v1/siterestrict?[parameters]
-# search engine ID : 007401815838453618094:ek-abrltudo
 
 # https://buildingdetroit.org/properties/pastlistings?location=&listingtype=list&category=&district=&bedrooms=&bathrooms=&minsqft=&maxsqft=&fromsaledate=&tosaledate=&page=
 # 151 pages as of 7/26
@@ -21,10 +14,9 @@ cwd = os.getcwd()
 pathName = os.path.join(cwd, "DLBA_Auctions_Closed.csv")
 
 property_list = []
-raw_data = []
 
 page = 1
-while page <= 2:
+while page <= 151:
     # Progress tracking
     print "Scraping " + "Page" + " " + str(page)
 
@@ -41,23 +33,24 @@ while page <= 2:
     text = text.split('[',1)[1]
     parsed_text = text.split('},')
     s_count = 1
+    prop_count = len(parsed_text)
     props = []
     for s in parsed_text:
-        while s_count < 46:
+        if s_count <len(parsed_text):
             s_list = str(s.split(':'))
             s_list = s_list.split(",")
-            print "Prop " + str(s_count) + ". " + str(s_list)
-            address = str(s_list[1])
-            identifier = str(s_list[27])
-            pid = str(s_list[3])
+            #print "Prop " + str(s_count) + ". " + str(s_list)
+            address = str(s_list[1]).strip()
+            #print(address)
+            identifier = str(s_list[27]).strip()
+            pid = str(s_list[3]).strip()
             url1 = "buildingdetroit.org/properties/" + identifier + "-" + pid
             url2 = "buildingdetroit.org/properties/" + identifier
-            row = address + ", " + identifier + ", " + pid + ", " + url1 + ", " + url2
-            row = row.replace('"', '')
-            row = row.replace('u\'', '')
-            props.append(row)
+            line = address + ", " + identifier + ", " + pid + ", " + url1 + ", " + url2
+            line = line.replace('"', '')
+            line = line.replace('u\'', '')
+            props.append(line)
             s_count = s_count + 1
-
     # Split list into matrix
     for row in props:
         splitRow = row.split(', ')
@@ -70,7 +63,7 @@ with open('./detroit_pastlistings.csv', 'wb') as outfile:
     writer.writerows(property_list)
 
 # step 2. crawl through list to extract data
-# use the list of URLs collected in step 1
+# use the list of URLs collected in step 1 - try URL1, if doesn't exist, try URL2
 
 
 """
