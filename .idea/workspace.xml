@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3753648a-607a-45e4-af55-6688f3a9ac1e" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/prop_data_extract.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/detroit_pastlistings.csv" beforeDir="false" afterPath="$PROJECT_DIR$/detroit_pastlistings.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/past_properties.py" beforeDir="false" afterPath="$PROJECT_DIR$/past_properties.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/past_properties.py" beforeDir="false" afterPath="$PROJECT_DIR$/past_props_urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../landwatch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../landwatch/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,25 +16,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="15">
-                <caret line="3" selection-start-line="3" selection-end-line="4" />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="past_props_urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/past_props_urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="262">
+              <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+              <folding>
+                <element signature="e#91#100#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="past_properties.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/past_properties.py">
+      <file leaf-file-name="prop_data_extract.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/prop_data_extract.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="51" column="26" selection-start-line="51" selection-start-column="26" selection-end-line="51" selection-end-column="26" />
+            <state relative-caret-position="125">
+              <caret line="65" column="17" lean-forward="true" selection-start-line="65" selection-start-column="17" selection-end-line="65" selection-end-column="17" />
               <folding>
-                <element signature="e#91#100#0" expanded="true" />
+                <element signature="e#219#228#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -43,8 +43,8 @@
       <file leaf-file-name="read_lw.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../landwatch/read_lw.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="909">
-              <caret line="82" selection-start-line="82" selection-end-line="82" />
+            <state relative-caret-position="129">
+              <caret line="24" column="27" lean-forward="true" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -77,12 +77,13 @@
         <option value="$PROJECT_DIR$/../landwatch/read_lw.py" />
         <option value="$PROJECT_DIR$/past_properties_v2.py" />
         <option value="$PROJECT_DIR$/past_properties.py" />
+        <option value="$PROJECT_DIR$/past_props_urls.py" />
+        <option value="$PROJECT_DIR$/prop_data_extract.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="112" />
-    <option name="y" value="379" />
+    <option name="y" value="23" />
     <option name="width" value="640" />
     <option name="height" value="777" />
   </component>
@@ -125,7 +126,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.prop_data_extract">
     <configuration name="past_properties" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="detroit" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -138,14 +139,37 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/past_properties.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/past_props_urls.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="prop_data_extract" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="detroit" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prop_data_extract.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.past_properties" />
+      <item itemvalue="Python.prop_data_extract" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.prop_data_extract" />
         <item itemvalue="Python.past_properties" />
       </list>
     </recent_temporary>
@@ -219,7 +243,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/past_properties.py">
+    <entry file="file://$PROJECT_DIR$/past_props_urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
@@ -249,7 +273,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/past_properties.py">
+    <entry file="file://$PROJECT_DIR$/past_props_urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1005">
           <caret line="72" column="17" selection-start-line="72" selection-start-column="17" selection-end-line="72" selection-end-column="17" />
@@ -269,7 +293,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/past_properties.py">
+    <entry file="file://$PROJECT_DIR$/past_props_urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
@@ -289,7 +313,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/past_properties.py">
+    <entry file="file://$PROJECT_DIR$/past_props_urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
@@ -326,22 +350,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/past_props_urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+          <folding>
+            <element signature="e#91#100#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../landwatch/read_lw.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="909">
-          <caret line="82" selection-start-line="82" selection-end-line="82" />
+        <state relative-caret-position="129">
+          <caret line="24" column="27" lean-forward="true" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/past_properties.py">
+    <entry file="file://$PROJECT_DIR$/prop_data_extract.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="51" column="26" selection-start-line="51" selection-start-column="26" selection-end-line="51" selection-end-column="26" />
+        <state relative-caret-position="125">
+          <caret line="65" column="17" lean-forward="true" selection-start-line="65" selection-start-column="17" selection-end-line="65" selection-end-column="17" />
           <folding>
-            <element signature="e#91#100#0" expanded="true" />
+            <element signature="e#219#228#0" expanded="true" />
           </folding>
         </state>
       </provider>
